@@ -26,6 +26,7 @@ namespace HanksApi.Models
                     Date = DateTime.Today.AddDays(-1),
                     Weight = 160,
                     DriverComment = "Заявка 2",
+                    DispatcherComment = "",
                     Price = 40,
                     JobType = "Перевозка груза",
                     PaymentType = "Наличный расчет",
